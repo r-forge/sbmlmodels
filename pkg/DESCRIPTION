@@ -1,0 +1,10 @@
+Package: SBMLModels
+Type: Package
+Title: A collection of SBML Models with some experimental and simulated datasets.
+Version: 0.1-1
+Date: 2009-08-26 
+Author: Colin Gillespie
+Maintainer: Colin Gillespie <c.gillespie@ncl.ac.uk>
+Description: A collection of SBML Models with  experimental and/or simulated datasets. Each data set contains a SBML model, a SBML shorthand model and associated datasets.
+License: LGPL-3
+Depends: R (>= 2.9.0)
